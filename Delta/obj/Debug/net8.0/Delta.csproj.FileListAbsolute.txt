@@ -1,0 +1,14 @@
+C:\Users\Asus_Laptop\source\repos\DeltaLogger\Delta\bin\Debug\net8.0\Delta.exe
+C:\Users\Asus_Laptop\source\repos\DeltaLogger\Delta\bin\Debug\net8.0\Delta.deps.json
+C:\Users\Asus_Laptop\source\repos\DeltaLogger\Delta\bin\Debug\net8.0\Delta.runtimeconfig.json
+C:\Users\Asus_Laptop\source\repos\DeltaLogger\Delta\bin\Debug\net8.0\Delta.dll
+C:\Users\Asus_Laptop\source\repos\DeltaLogger\Delta\bin\Debug\net8.0\Delta.pdb
+C:\Users\Asus_Laptop\source\repos\DeltaLogger\Delta\obj\Debug\net8.0\Delta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus_Laptop\source\repos\DeltaLogger\Delta\obj\Debug\net8.0\Delta.AssemblyInfoInputs.cache
+C:\Users\Asus_Laptop\source\repos\DeltaLogger\Delta\obj\Debug\net8.0\Delta.AssemblyInfo.cs
+C:\Users\Asus_Laptop\source\repos\DeltaLogger\Delta\obj\Debug\net8.0\Delta.csproj.CoreCompileInputs.cache
+C:\Users\Asus_Laptop\source\repos\DeltaLogger\Delta\obj\Debug\net8.0\Delta.dll
+C:\Users\Asus_Laptop\source\repos\DeltaLogger\Delta\obj\Debug\net8.0\refint\Delta.dll
+C:\Users\Asus_Laptop\source\repos\DeltaLogger\Delta\obj\Debug\net8.0\Delta.pdb
+C:\Users\Asus_Laptop\source\repos\DeltaLogger\Delta\obj\Debug\net8.0\Delta.genruntimeconfig.cache
+C:\Users\Asus_Laptop\source\repos\DeltaLogger\Delta\obj\Debug\net8.0\ref\Delta.dll

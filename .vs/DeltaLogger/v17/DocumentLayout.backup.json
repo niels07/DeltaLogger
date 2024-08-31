@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus_Laptop\\source\\repos\\DeltaLogger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC66B3CD-368C-4725-B8E3-F48526D11704}|Delta\\Delta.csproj|c:\\users\\asus_laptop\\source\\repos\\deltalogger\\delta\\delta.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BC66B3CD-368C-4725-B8E3-F48526D11704}|Delta\\Delta.csproj|solutionrelative:delta\\delta.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC66B3CD-368C-4725-B8E3-F48526D11704}|Delta\\Delta.csproj|c:\\users\\asus_laptop\\source\\repos\\deltalogger\\delta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC66B3CD-368C-4725-B8E3-F48526D11704}|Delta\\Delta.csproj|solutionrelative:delta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D49C23B-C154-4DEA-B0C3-A94B746ADE87}|DeltaLogger\\DeltaLogger.csproj|c:\\users\\asus_laptop\\source\\repos\\deltalogger\\deltalogger\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D49C23B-C154-4DEA-B0C3-A94B746ADE87}|DeltaLogger\\DeltaLogger.csproj|solutionrelative:deltalogger\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D49C23B-C154-4DEA-B0C3-A94B746ADE87}|DeltaLogger\\DeltaLogger.csproj|c:\\users\\asus_laptop\\source\\repos\\deltalogger\\deltalogger\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D49C23B-C154-4DEA-B0C3-A94B746ADE87}|DeltaLogger\\DeltaLogger.csproj|solutionrelative:deltalogger\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D49C23B-C154-4DEA-B0C3-A94B746ADE87}|DeltaLogger\\DeltaLogger.csproj|c:\\users\\asus_laptop\\source\\repos\\deltalogger\\deltalogger\\deltalogger.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6D49C23B-C154-4DEA-B0C3-A94B746ADE87}|DeltaLogger\\DeltaLogger.csproj|solutionrelative:deltalogger\\deltalogger.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D49C23B-C154-4DEA-B0C3-A94B746ADE87}|DeltaLogger\\DeltaLogger.csproj|c:\\users\\asus_laptop\\source\\repos\\deltalogger\\deltalogger\\networking\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D49C23B-C154-4DEA-B0C3-A94B746ADE87}|DeltaLogger\\DeltaLogger.csproj|solutionrelative:deltalogger\\networking\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D49C23B-C154-4DEA-B0C3-A94B746ADE87}|DeltaLogger\\DeltaLogger.csproj|c:\\users\\asus_laptop\\source\\repos\\deltalogger\\deltalogger\\networking\\tcpexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D49C23B-C154-4DEA-B0C3-A94B746ADE87}|DeltaLogger\\DeltaLogger.csproj|solutionrelative:deltalogger\\networking\\tcpexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D49C23B-C154-4DEA-B0C3-A94B746ADE87}|DeltaLogger\\DeltaLogger.csproj|c:\\users\\asus_laptop\\source\\repos\\deltalogger\\deltalogger\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D49C23B-C154-4DEA-B0C3-A94B746ADE87}|DeltaLogger\\DeltaLogger.csproj|solutionrelative:deltalogger\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D49C23B-C154-4DEA-B0C3-A94B746ADE87}|DeltaLogger\\DeltaLogger.csproj|c:\\users\\asus_laptop\\source\\repos\\deltalogger\\deltalogger\\deltalogger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D49C23B-C154-4DEA-B0C3-A94B746ADE87}|DeltaLogger\\DeltaLogger.csproj|solutionrelative:deltalogger\\deltalogger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus_Laptop\\source\\repos\\DeltaLogger\\Delta\\obj\\x86\\Debug\\net48\\Delta.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Delta\\obj\\x86\\Debug\\net48\\Delta.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC66B3CD-368C-4725-B8E3-F48526D11704}|Delta\\Delta.csproj|c:\\users\\asus_laptop\\source\\repos\\deltalogger\\delta\\delta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC66B3CD-368C-4725-B8E3-F48526D11704}|Delta\\Delta.csproj|solutionrelative:delta\\delta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delta",
+              "DocumentMoniker": "C:\\Users\\Asus_Laptop\\source\\repos\\DeltaLogger\\Delta\\Delta.csproj",
+              "RelativeDocumentMoniker": "Delta\\Delta.csproj",
+              "ToolTip": "C:\\Users\\Asus_Laptop\\source\\repos\\DeltaLogger\\Delta\\Delta.csproj",
+              "RelativeToolTip": "Delta\\Delta.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-31T15:30:59.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delta.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus_Laptop\\source\\repos\\DeltaLogger\\Delta\\Delta.csproj",
+              "RelativeDocumentMoniker": "Delta\\Delta.csproj",
+              "ToolTip": "C:\\Users\\Asus_Laptop\\source\\repos\\DeltaLogger\\Delta\\Delta.csproj",
+              "RelativeToolTip": "Delta\\Delta.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T06:19:45.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Asus_Laptop\\source\\repos\\DeltaLogger\\DeltaLogger\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DeltaLogger\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Asus_Laptop\\source\\repos\\DeltaLogger\\DeltaLogger\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DeltaLogger\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAUwPIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T05:52:12.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus_Laptop\\source\\repos\\DeltaLogger\\Delta\\Program.cs",
+              "RelativeDocumentMoniker": "Delta\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus_Laptop\\source\\repos\\DeltaLogger\\Delta\\Program.cs",
+              "RelativeToolTip": "Delta\\Program.cs",
+              "ViewState": "AgIAAEwCAAAAAAAAAAAUwGsCAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:07:53.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Asus_Laptop\\source\\repos\\DeltaLogger\\DeltaLogger\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DeltaLogger\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Asus_Laptop\\source\\repos\\DeltaLogger\\DeltaLogger\\MainWindow.xaml",
+              "RelativeToolTip": "DeltaLogger\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-30T02:32:47.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeltaLogger",
+              "DocumentMoniker": "C:\\Users\\Asus_Laptop\\source\\repos\\DeltaLogger\\DeltaLogger\\DeltaLogger.csproj",
+              "RelativeDocumentMoniker": "DeltaLogger\\DeltaLogger.csproj",
+              "ToolTip": "C:\\Users\\Asus_Laptop\\source\\repos\\DeltaLogger\\DeltaLogger\\DeltaLogger.csproj",
+              "RelativeToolTip": "DeltaLogger\\DeltaLogger.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-31T15:05:01.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TCPServer.cs",
+              "DocumentMoniker": "C:\\Users\\Asus_Laptop\\source\\repos\\DeltaLogger\\DeltaLogger\\Networking\\TCPServer.cs",
+              "RelativeDocumentMoniker": "DeltaLogger\\Networking\\TCPServer.cs",
+              "ToolTip": "C:\\Users\\Asus_Laptop\\source\\repos\\DeltaLogger\\DeltaLogger\\Networking\\TCPServer.cs",
+              "RelativeToolTip": "DeltaLogger\\Networking\\TCPServer.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwDgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:38:38.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Asus_Laptop\\source\\repos\\DeltaLogger\\DeltaLogger\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "DeltaLogger\\ConsoleLogger.cs",
+              "ToolTip": "C:\\Users\\Asus_Laptop\\source\\repos\\DeltaLogger\\DeltaLogger\\ConsoleLogger.cs",
+              "RelativeToolTip": "DeltaLogger\\ConsoleLogger.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwE8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T03:46:44.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TCPException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus_Laptop\\source\\repos\\DeltaLogger\\DeltaLogger\\Networking\\TCPException.cs",
+              "RelativeDocumentMoniker": "DeltaLogger\\Networking\\TCPException.cs",
+              "ToolTip": "C:\\Users\\Asus_Laptop\\source\\repos\\DeltaLogger\\DeltaLogger\\Networking\\TCPException.cs",
+              "RelativeToolTip": "DeltaLogger\\Networking\\TCPException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:42:20.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delta.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Users\\Asus_Laptop\\source\\repos\\DeltaLogger\\Delta\\obj\\x86\\Debug\\net48\\Delta.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "Delta\\obj\\x86\\Debug\\net48\\Delta.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Users\\Asus_Laptop\\source\\repos\\DeltaLogger\\Delta\\obj\\x86\\Debug\\net48\\Delta.GlobalUsings.g.cs",
+              "RelativeToolTip": "Delta\\obj\\x86\\Debug\\net48\\Delta.GlobalUsings.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T15:14:32.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeltaLogger.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus_Laptop\\source\\repos\\DeltaLogger\\DeltaLogger\\DeltaLogger.csproj",
+              "RelativeDocumentMoniker": "DeltaLogger\\DeltaLogger.csproj",
+              "ToolTip": "C:\\Users\\Asus_Laptop\\source\\repos\\DeltaLogger\\DeltaLogger\\DeltaLogger.csproj",
+              "RelativeToolTip": "DeltaLogger\\DeltaLogger.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T23:50:53.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
